@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1668080820 source:c:\users\porquinho\onedrive\projetoeversonpim\projetofarmaciapim\functions\login.c
+	<stdbool.h>
+	<conio.h>
+	<stdlib.h>
+	"../header/comum.h"
+	"../header/login.h"
+
+1667343433 source:c:\users\porquinho\onedrive\projetoeversonpim\projetofarmaciapim\functions\users.c
+
+1667905139 source:c:\users\porquinho\onedrive\projetoeversonpim\projetofarmaciapim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<locale.h>
+
+1667922520 source:c:\users\porquinho\onedrive\projetoeversonpim\projetofarmaciapim\functions\comum.c
+	"../header/comum.h"
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+	"string.h"
+	<stdio.h>
+
+1668079670 c:\users\porquinho\onedrive\projetoeversonpim\projetofarmaciapim\header\comum.h
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1668078546 c:\users\porquinho\onedrive\projetoeversonpim\projetofarmaciapim\header\login.h
+
+1667922520 source:c:\onedrive\projetoeversonpim\projetofarmaciapim\functions\comum.c
+	"../header/comum.h"
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+	"string.h"
+	<stdio.h>
+
+1668083888 c:\onedrive\projetoeversonpim\projetofarmaciapim\header\comum.h
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1667343433 source:c:\onedrive\projetoeversonpim\projetofarmaciapim\functions\users.c
+
+1668427140 source:c:\onedrive\projetoeversonpim\projetofarmaciapim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<locale.h>
+
+1668426999 source:c:\onedrive\projetoeversonpim\projetofarmaciapim\functions\login.c
+	<stdbool.h>
+	<conio.h>
+	<stdlib.h>
+	"../header/comum.h"
+	"../header/login.h"
+
+1668426862 c:\onedrive\projetoeversonpim\projetofarmaciapim\header\login.h
+
+1668428040 source:c:\onedrive\projetoeversonpim\projetofarmaciapim\functions\menusistema.c
+	<stdbool.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	"../header/comum.h"
+	"../header/menuSistema.h"
+
+1668427184 c:\onedrive\projetoeversonpim\projetofarmaciapim\header\menusistema.h
+
+1668863359 source:c:\users\rodri\desktop\projetoeversonpim\projetofarmaciapim\functions\comum.c
+	"../header/comum.h"
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+	"string.h"
+	<stdio.h>
+
+1668083888 c:\users\rodri\desktop\projetoeversonpim\projetofarmaciapim\header\comum.h
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1668426999 source:c:\users\rodri\desktop\projetoeversonpim\projetofarmaciapim\functions\login.c
+	<stdbool.h>
+	<conio.h>
+	<stdlib.h>
+	"../header/comum.h"
+	"../header/login.h"
+
+1668426862 c:\users\rodri\desktop\projetoeversonpim\projetofarmaciapim\header\login.h
+
+1667343433 source:c:\users\rodri\desktop\projetoeversonpim\projetofarmaciapim\functions\users.c
+
+1668864757 source:c:\users\rodri\desktop\projetoeversonpim\projetofarmaciapim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<locale.h>
+
+1668864712 source:c:\users\rodri\desktop\projetoeversonpim\projetofarmaciapim\functions\menusistema.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	"../header/comum.h"
+	"../header/menuSistema.h"
+
+1668864205 c:\users\rodri\desktop\projetoeversonpim\projetofarmaciapim\header\menusistema.h
+
